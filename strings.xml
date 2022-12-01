@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">FriendList</string>
+    <string name="name_heroes" translatable="false">Me and My friend</string>
+    <string name="lorem" translatable="false">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>afnyy</item>
+        <item>febby</item>
+        <item>indah</item>
+        <item>widyah</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>afnyy, adalah seorang mahasiswa untad</item>
+        <item>febby, adalah seorang mahasiswa stifa</item>
+        <item>indah, adalah seorang mahasiswa untad</item>
+        <item>widyah, adalah seorang mahasiswa untad</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/afnyy</item>
+        <item>@drawable/febby</item>
+        <item>@drawable/indah</item>
+        <item>@drawable/widyah</item>
+    </array>
+
+</resources>
